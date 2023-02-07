@@ -1,0 +1,29 @@
+button{
+    background-color: rgb(51, 129, 103);
+    color: white;
+    
+    border-radius: 15px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+ul{
+    display: flex;
+    gap: 50px;
+}
+li{
+    list-style-type: none;
+}
+.btnone{
+    margin-right: 50px;
+}
+
+.logoone{
+    margin-right: 50px;
+}
+.allsecond{
+    margin-right: 50px;
+}
